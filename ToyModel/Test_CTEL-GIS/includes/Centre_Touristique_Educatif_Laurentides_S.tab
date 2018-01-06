@@ -1,0 +1,17 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+  Type NATIVE Charset "WindowsLatin1"
+  Fields 5
+    IDENTIFIAN Char (60) ;
+    NUM√É∆_√_‚ Float ;
+    TOPONYMIE_ Char (60) ;
+    SUPERFICIE Decimal (12, 3) ;
+    MUNICIPALI Char (70) ;
+begin_metadata
+"\IsReadOnly" = "FALSE"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "6a37bda8-bddc-46db-a775-7aa3f2185444"
+end_metadata
