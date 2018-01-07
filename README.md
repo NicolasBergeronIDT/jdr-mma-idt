@@ -6,6 +6,6 @@ Ce projet collaboratif à pour but d'implanter une plateforme de jeux sérieux a
 Collaborateurs:
 UQO (Université du Québec en Outaouais) ;
 UdeM (Université de Montréal) ;
-OURANOS INC.
+OURANOS INC. ;
 Institut des territoires (http://www.idt.quebec/)
 
